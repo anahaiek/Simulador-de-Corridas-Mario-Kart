@@ -1,4 +1,4 @@
-<h1> Mario Kart.JS</h1>
+<h1> Simulador de Corridas Mario Kart</h1>
 
   <table>
         <tr>
@@ -6,8 +6,10 @@
                 <img src="./docs/header.gif" alt="Mario Kart" width="200">
             </td>
             <td>
+            <h2>  Vídeo do funcionamento do simulador<h2>
+              
                 <b>Objetivo:</b>
-                <p>Mario Kart é uma série de jogos de corrida desenvolvida e publicada pela Nintendo. Nosso desafio será criar uma lógica de um jogo de vídeo game para simular corridas de Mario Kart, levando em consideração as regras e mecânicas abaixo.</p>
+                <p>Mario Kart é uma série de jogos de corrida desenvolvida e publicada pela Nintendo. O desafio foi criar uma lógica de um jogo de vídeo game para simular corridas de Mario Kart, levando em consideração as regras e mecânicas abaixo.</p>
             </td>
         </tr>
     </table>
