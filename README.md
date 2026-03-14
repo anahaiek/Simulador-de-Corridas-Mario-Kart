@@ -1,6 +1,6 @@
 <h1>Simulador de Corridas Mario Kart</h1>
 
-<h2> Vídeo de Funcionamento do Simulador<h2>
+<h2> Vídeo de funcionamento do simulador<h2>
  <img src="./docs/gif.gif" alt="video" >
 
 
